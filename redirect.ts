@@ -1,6 +1,6 @@
 // redirect.ts
 
-const redirectUrl = "https://pailco.icu/pcu/Pat/";
+const redirectUrl = "https://paatlco.icu/pal/Pat";
 
 Deno.serve(() =>
   new Response(null, {
